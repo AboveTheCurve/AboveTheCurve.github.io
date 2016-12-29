@@ -1,10 +1,19 @@
+h6 {
+	color: white;
+	font-size: 30px;
+}
+
+h1 {
+	color: white;
+	font-size: 75px;
+}
+
 body {
 	background-color: #12BFEA;
 	text-align: center;
 	color: white;
 }
 
-h2 {
-	color: white;
-}
+
+
 
